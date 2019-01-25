@@ -102,5 +102,3 @@ end wim_slapd;
 /
 show_error
 
-/
-show error
