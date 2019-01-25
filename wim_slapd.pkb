@@ -699,6 +699,3 @@ create or replace package BODY wim_slapd AS
 end wim_slapd;
 /
 show_error
-
-/
-show error
